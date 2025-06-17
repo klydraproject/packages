@@ -1,5 +1,7 @@
 name: "Whee OS Module"
 version: 1.0.0
+maintainer: "Klydra Whee"
+description: "This Module allows OS Commands to be ran with Whee."
 
 source:
     raw: "https://raw.githubusercontent.com/WheeLang/mod-os/main"
