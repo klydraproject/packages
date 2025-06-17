@@ -5,6 +5,7 @@ description: "This Module allows OS Commands to be ran with Whee."
 
 source:
     raw: "https://raw.githubusercontent.com/WheeLang/mod-os/main"
+    package: "https://github.com/WheeLang/mod-os/releases/download/v1.0.0/os-1.0.0.choco.pkg"
 
 install:
     commands: |
